@@ -4,9 +4,9 @@ I like programming since the first time I had contact with the subject, I have v
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=araujo-alef&show_icons=true&hide_border=true)
 
-![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-alef&layout=compact)
-
 ![Trophy's github](https://github-profile-trophy.vercel.app/?username=araujo-alef&column=3&margin-w=15&margin-h=15)
+
+![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-alef&layout=compact)
 
 
 ## Find me around the web 🌎:
